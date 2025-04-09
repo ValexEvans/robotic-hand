@@ -47,11 +47,9 @@ Utilized Fusion 360 to design and model prosthetic hands and a custom 3D-printed
 
 
 
-<img src="assets/gear1.PNG" width="300">
-<img src="assets/gear2.PNG" width="300">
+<img src="assets/gear1.PNG" width="300"> <img src="assets/gear2.PNG" width="300">
 
-<img src="assets/gear3.PNG" width="300">
-<img src="assets/gear4.PNG" width="300">
+<img src="assets/gear3.PNG" width="300"> <img src="assets/gear4.PNG" width="300">
 
 ## Testing and Power efficiency.
 
