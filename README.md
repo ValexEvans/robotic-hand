@@ -1,7 +1,7 @@
 # README
 
 ## Project Overview
-The objective of this project is to design and implement a mechanical hand capable of generating at least 500N of force. Various actuator mechanisms were explored, including Nitinol wire, solenoid actuators, pulleys, and planetary gearboxes. The final design choice aims to balance power efficiency, force output, weight, and noise levels.
+This project, conducted in 2021, focused on designing and implementing a mechanical hand capable of generating at least 500N of force. Various actuator mechanisms were explored, including Nitinol wire, solenoid actuators, pulleys, and planetary gearboxes. The final design was selected to achieve an optimal balance between power efficiency, force output, weight, and noise levels.
 
 ## Actuation Methods Considered
 
